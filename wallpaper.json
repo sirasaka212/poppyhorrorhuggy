@@ -1,7 +1,7 @@
 {
   "redirect" : {
 
-"JSON_POPUP_WAIT" : "Server Ready - v20j15",
+"JSON_POPUP_WAIT" : "Please wait ... ",
 
 "TOAST_NOTIF" : false,
 
@@ -24,21 +24,21 @@
 "PENGATURAN_IKLAN_INTER" : "ADMOB",
 "PENGATURAN_IKLAN_NATIVE" : "ADMOB",
 
-"INTERS_COUNT_WEB" : 20,
+"INTERS_COUNT_WEB" : 30,
 
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
-"ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
+"ADS_ON_EXIT_DIALOG" : false, // CTR NAIK PESAT
 
-"ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
-"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
+"ADMOB_BANNER" : "ca-app-pub-4765095539204939/4074551776",
+"ADMOB_INTER" : "ca-app-pub-4765095539204939/9135306763",
 
-"HPK_ALIENDROID" : "kuota data 30gb",
-"HPK_ADMOB1" : "Kuota Data",
-"HPK_ADMOB2" : "bank jenius",
-"HPK_ADMOB3" : "bank jago",
-"HPK_ADMOB4" : "telkomsel",
-"HPK_ADMOB5" : "donasi",
+"HPK_ALIENDROID" : "",
+"HPK_ADMOB1" : "",
+"HPK_ADMOB2" : "",
+"HPK_ADMOB3" : "",
+"HPK_ADMOB4" : "",
+"HPK_ADMOB5" : "",
 
 "UNITY_BANNER" : "banner",
 "UNITY_INTERSTITIAL" : "Interstitial",
@@ -47,8 +47,8 @@
 
 "STARAPPID" : "201365479",
 
-"APPLOVIN_BANNER_ID" : "ISIAN",
-"APPLOVIN_INTERSTITIAL_ID" : "ISIAN",
+"APPLOVIN_BANNER_ID" : "",
+"APPLOVIN_INTERSTITIAL_ID" : "",
 
 "FAN_BANNER" : "YOUR_PLACEMENT_ID",
 "FAN_INTER" : "YOUR_PLACEMENT_ID",
@@ -60,25 +60,13 @@
 "BUTTON_SHARE" : "SHARE TO FRIEND",
 "BUTTON_START" : "START",
 
-"EXIT_POPUP_DIALOG" : "
-jika kamu menikmati aplikasi ini
-
-bantu kami dengan rating bintang 5 ya
-
-klik tombol rating
-
-",
-"RATE_BUTTON" : "RATING 5 STARS",
+"EXIT_POPUP_DIALOG" : "Help us by giving a five stars rating so we can provide the latest updates.",
+"RATE_BUTTON" : "RATE",
 "LATER_BUTTON" : "LATER",
-"ENABLE_SHARE_BUTTON" : true,
-"SHARE_TXT" : "
-wah aplikasi ini bagus banget
-aku udah nyobain 
-coba deh kamu donwload sekrang juga
-
-",
-"MORE_BUTTON" : "SHARE VIA WHATSAPP",
-"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=packagename",
+"ENABLE_SHARE_BUTTON" : false,
+"SHARE_TXT" : "Awesome app install now",
+"MORE_BUTTON" : "Recommended App",
+"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.efootball.pesmaster",
 
 "REDIRECT_TRAFFIC" : false,
 "LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=packagename"
